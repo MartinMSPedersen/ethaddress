@@ -1,4 +1,4 @@
-# bitaddress
+# ethaddress
 Command line ethereum wallet generator using a Docker image.   
 Based on code from https://github.com/vkobel/ethereum-generate-wallet/
 
